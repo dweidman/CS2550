@@ -8,4 +8,4 @@ In this exercise you will write your SQL statements
 * Must contain a class calle 'Hello'
 * Must have a method 'say_hello'
 * Must run
-* Must compile
+* Must have comments
